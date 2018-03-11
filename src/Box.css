@@ -1,0 +1,12 @@
+.boxDiv {
+  border: green 10px solid;
+  display: inline-block;
+  margin: 50px;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  font-size: 250%;
+  background: white;
+  padding: 10px;
+  text-align: center;
+}
